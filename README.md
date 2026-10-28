@@ -106,7 +106,7 @@ I linked each identified issue to a practical corrective action — from improvi
 
 
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](/executive-overview.png)
 
 
 
@@ -114,7 +114,7 @@ I linked each identified issue to a practical corrective action — from improvi
 
 
 
-![Detailed Quality Analysis](screenshots/detailed-analysis.png)
+![Detailed Quality Analysis](/detailed-analysis.png)
 
 
 ---
