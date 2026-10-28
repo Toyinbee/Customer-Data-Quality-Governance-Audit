@@ -145,8 +145,7 @@ Good data management involves more than correcting errors. This project also con
 | File | Description |
 |---|---|
 | `README.md` | Project documentation (this file) |
-| `screenshots/` | Dashboard screenshot images |
-| Full Technical Report | [Add PDF or Doc link here] |
+| Full Technical Report | [https://drive.google.com/file/d/1T0jYidD_bneNyo4URzKgJbEc9Sojskgz/view?usp=drivesdk|
 | Power BI Report (view-only) | [Add Google Drive link here] |
 
 ---
@@ -163,7 +162,7 @@ Safeguard Insurance Limited is a simulated business scenario. The dataset contai
 Data Analyst | AI Governance & Compliance | Executive Virtual Assistant
 
 📍 Lagos, Nigeria (Open to remote roles)
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Notion Portfolio](https://notion.so/your-portfolio)
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwatoyin-oloruntoba-779873388) | [Notion Portfolio](https://notion.so/your-portfolio)
 
 ---
 
